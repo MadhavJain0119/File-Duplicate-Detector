@@ -20,8 +20,8 @@ The dataset used to train and test the Duplicate Image Detector consists of mult
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Duplicate-Image-Detector.git
-cd Duplicate-Image-Detector
+git clone https://github.com/MadhavJain0119/File-Duplicate-Detector.git
+cd File-Duplicate-Detector
 ``` 
 
 2. Install the required dependencies:
